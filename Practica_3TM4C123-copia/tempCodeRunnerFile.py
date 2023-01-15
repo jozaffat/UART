@@ -1,0 +1,1 @@
+for index in range(len(nom) - 1, -1, -1):
